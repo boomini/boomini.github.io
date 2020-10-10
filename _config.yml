@@ -75,7 +75,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/bio-photo-keyboard.jpg"
+og_image                 : "/assets/ggu.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "boomini"
-  avatar           : "/assets/images/bio-photo-keyboard.jpg"
-  bio              : "boomini's blog study & algirithm & portfolio"
+  avatar           : "/assets/ggu.jpg"
+  bio              : "천천히 공부하기"
   location         : "South Korea"
   email            :
   links:
