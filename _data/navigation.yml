@@ -4,8 +4,8 @@ main:
     url: https://boomini.github.io
   - title: "About"
     url: /about/
-  - title: "Projects"
-    url: /projects/
+  - title: "Categories"
+    url: /categories/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
