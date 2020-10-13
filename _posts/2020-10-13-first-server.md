@@ -40,6 +40,6 @@ WAS는 동적인 데이터를 처리하는 서버, db연결, 데이터 조작등
 웹 애플리케이션에 필요한 모든 정적 리소스를 최초에 한번 다운로드하고 이후 새로운 페이지 요청 시 , 페이지 갱신에 필요한 데이터만을 전달 받아 페이지를 갱신하므로 전체적인 트래픽을 감소할 수 있고, 전체 페이지를 다시 렌더링하지 않고 변경되는 부분만을 갱신하므로 새로고침이 발생하지 않아 네이티브 앱과 유사한 사용자 경험을 제공할 수 있다.
 
 
-###Reference
+### Reference
 [https://limmmee.tistory.com/4](https://limmmee.tistory.com/4)  
 [https://codevang.tistory.com/191](https://codevang.tistory.com/191)
