@@ -6,5 +6,5 @@ layout: single
 
 
 # About me
-![](https://boomini.github.io/assets/img/Meet.png)
+![](/assets/img/Meet.png)
 
