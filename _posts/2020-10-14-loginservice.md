@@ -3,7 +3,7 @@ title: "Spring boot+Vue.js login프로그램 구현(1)"
 
 categories:
  - Spring
- - Vuejs
+ - vuejs
  - Login
 tags:
  - rest api 
