@@ -67,7 +67,10 @@ end fibo(n)
 
 #### Memoization
  - 앞의 예에서 피보나치 수를 구하는 알고리즘에서 fibo(n)의 값을 계산하자마자 저장하면(memoize), 실행시간을 O(n)으로 줄일 수 있다.
-```java
+
+
+```java  
+
 //memo를 위한 배열을 할당하고, 모두 0으로 초기화 한다.
 //memo[0]을 0으로 memo[1]은 1로 초기화 한다.
 
@@ -75,7 +78,7 @@ fibo(n)
 	if n>=2 and memo[n] is zero then
 		memo[n] <- fibo(n-1) + fibo(n-2);
 	return memo[n];
-end fibo()
+end fibo()  
 ```
 
 
