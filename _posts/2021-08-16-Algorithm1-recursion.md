@@ -2,7 +2,7 @@
 title: "재귀"
 
 categories:
- - Alogorithm
+ - Algorithm
 tags:
  - 알고리즘
  - Algorithm
